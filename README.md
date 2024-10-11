@@ -1,11 +1,8 @@
 ## Hi there 👋
 
 ### Welcome to my GitHub profile!
-Here's a customized GitHub README based on your details:
 
 ---
-
-# 👋 Hi, I'm [Your Name]!
 
 I'm currently studying in **Romania** 🇷🇴, with a goal of moving to the **United States** 🇺🇸 in the near future! When I'm not coding, you can find me:
 
