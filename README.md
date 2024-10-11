@@ -1,17 +1,21 @@
 ## Hi there 👋
 
 ### Welcome to my GitHub profile!
-<!--
-**Electro7777/Electro7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a customized GitHub README based on your details:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm [Your Name]!
+
+I'm currently studying in **Romania** 🇷🇴, with a goal of moving to the **United States** 🇺🇸 in the near future! When I'm not coding, you can find me:
+
+- 🚗 **Driving** around to explore new places  
+- 🎧 **Listening to music** to unwind  
+- 🎮 **Playing video games** to relax  
+- 🐕 **Walking in the forest** with my loyal dog
+
+## 🚀 What I'm Up To
+
+- 🌱 **Currently learning**: C# (Sharp)  
+- 🔭 **Working on**: Nothing right now.  
+- 👯 **Open to collaborate on**: Cool Projects  
